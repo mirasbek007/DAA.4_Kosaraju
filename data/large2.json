@@ -1,0 +1,351 @@
+{
+  "nodes": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "M5",
+    "M6",
+    "M7",
+    "M8",
+    "M9",
+    "M10",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M16",
+    "M17",
+    "M18",
+    "M19",
+    "M20",
+    "M21",
+    "M22",
+    "M23",
+    "M24",
+    "M25"
+  ],
+  "edges": [
+    {
+      "from": "M1",
+      "to": "M2",
+      "weight": 1
+    },
+    {
+      "from": "M2",
+      "to": "M3",
+      "weight": 1
+    },
+    {
+      "from": "M3",
+      "to": "M4",
+      "weight": 1
+    },
+    {
+      "from": "M4",
+      "to": "M5",
+      "weight": 1
+    },
+    {
+      "from": "M5",
+      "to": "M6",
+      "weight": 1
+    },
+    {
+      "from": "M6",
+      "to": "M1",
+      "weight": 1
+    },
+    {
+      "from": "M13",
+      "to": "M25",
+      "weight": 4
+    },
+    {
+      "from": "M2",
+      "to": "M9",
+      "weight": 5
+    },
+    {
+      "from": "M16",
+      "to": "M13",
+      "weight": 3
+    },
+    {
+      "from": "M16",
+      "to": "M12",
+      "weight": 5
+    },
+    {
+      "from": "M7",
+      "to": "M17",
+      "weight": 2
+    },
+    {
+      "from": "M10",
+      "to": "M5",
+      "weight": 1
+    },
+    {
+      "from": "M20",
+      "to": "M9",
+      "weight": 5
+    },
+    {
+      "from": "M23",
+      "to": "M20",
+      "weight": 2
+    },
+    {
+      "from": "M10",
+      "to": "M4",
+      "weight": 1
+    },
+    {
+      "from": "M22",
+      "to": "M11",
+      "weight": 4
+    },
+    {
+      "from": "M18",
+      "to": "M4",
+      "weight": 3
+    },
+    {
+      "from": "M14",
+      "to": "M11",
+      "weight": 5
+    },
+    {
+      "from": "M21",
+      "to": "M7",
+      "weight": 5
+    },
+    {
+      "from": "M16",
+      "to": "M15",
+      "weight": 5
+    },
+    {
+      "from": "M9",
+      "to": "M2",
+      "weight": 5
+    },
+    {
+      "from": "M1",
+      "to": "M3",
+      "weight": 4
+    },
+    {
+      "from": "M23",
+      "to": "M22",
+      "weight": 1
+    },
+    {
+      "from": "M20",
+      "to": "M16",
+      "weight": 3
+    },
+    {
+      "from": "M8",
+      "to": "M24",
+      "weight": 3
+    },
+    {
+      "from": "M23",
+      "to": "M3",
+      "weight": 2
+    },
+    {
+      "from": "M19",
+      "to": "M8",
+      "weight": 2
+    },
+    {
+      "from": "M5",
+      "to": "M18",
+      "weight": 4
+    },
+    {
+      "from": "M11",
+      "to": "M17",
+      "weight": 4
+    },
+    {
+      "from": "M4",
+      "to": "M10",
+      "weight": 5
+    },
+    {
+      "from": "M10",
+      "to": "M23",
+      "weight": 1
+    },
+    {
+      "from": "M18",
+      "to": "M11",
+      "weight": 5
+    },
+    {
+      "from": "M7",
+      "to": "M20",
+      "weight": 5
+    },
+    {
+      "from": "M19",
+      "to": "M10",
+      "weight": 4
+    },
+    {
+      "from": "M3",
+      "to": "M20",
+      "weight": 4
+    },
+    {
+      "from": "M11",
+      "to": "M19",
+      "weight": 2
+    },
+    {
+      "from": "M10",
+      "to": "M6",
+      "weight": 2
+    },
+    {
+      "from": "M6",
+      "to": "M2",
+      "weight": 5
+    },
+    {
+      "from": "M22",
+      "to": "M9",
+      "weight": 4
+    },
+    {
+      "from": "M22",
+      "to": "M25",
+      "weight": 2
+    },
+    {
+      "from": "M5",
+      "to": "M2",
+      "weight": 1
+    },
+    {
+      "from": "M23",
+      "to": "M18",
+      "weight": 4
+    },
+    {
+      "from": "M23",
+      "to": "M17",
+      "weight": 3
+    },
+    {
+      "from": "M17",
+      "to": "M8",
+      "weight": 2
+    },
+    {
+      "from": "M22",
+      "to": "M19",
+      "weight": 4
+    },
+    {
+      "from": "M19",
+      "to": "M9",
+      "weight": 4
+    },
+    {
+      "from": "M16",
+      "to": "M22",
+      "weight": 3
+    },
+    {
+      "from": "M3",
+      "to": "M11",
+      "weight": 5
+    },
+    {
+      "from": "M4",
+      "to": "M16",
+      "weight": 5
+    },
+    {
+      "from": "M21",
+      "to": "M11",
+      "weight": 2
+    },
+    {
+      "from": "M8",
+      "to": "M1",
+      "weight": 3
+    },
+    {
+      "from": "M4",
+      "to": "M23",
+      "weight": 2
+    },
+    {
+      "from": "M12",
+      "to": "M6",
+      "weight": 3
+    },
+    {
+      "from": "M14",
+      "to": "M2",
+      "weight": 1
+    },
+    {
+      "from": "M5",
+      "to": "M23",
+      "weight": 2
+    },
+    {
+      "from": "M2",
+      "to": "M19",
+      "weight": 5
+    },
+    {
+      "from": "M20",
+      "to": "M22",
+      "weight": 1
+    },
+    {
+      "from": "M1",
+      "to": "M4",
+      "weight": 2
+    },
+    {
+      "from": "M20",
+      "to": "M19",
+      "weight": 1
+    },
+    {
+      "from": "M13",
+      "to": "M3",
+      "weight": 3
+    },
+    {
+      "from": "M4",
+      "to": "M2",
+      "weight": 5
+    },
+    {
+      "from": "M1",
+      "to": "M7",
+      "weight": 2
+    },
+    {
+      "from": "M23",
+      "to": "M4",
+      "weight": 4
+    },
+    {
+      "from": "M7",
+      "to": "M24",
+      "weight": 1
+    }
+  ]
+}
