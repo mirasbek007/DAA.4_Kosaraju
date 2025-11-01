@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ],
+  "edges": [
+    {
+      "from": "A",
+      "to": "B",
+      "weight": 1.0
+    },
+    {
+      "from": "A",
+      "to": "C",
+      "weight": 2.0
+    },
+    {
+      "from": "B",
+      "to": "D",
+      "weight": 1.0
+    },
+    {
+      "from": "C",
+      "to": "D",
+      "weight": 1.0
+    },
+    {
+      "from": "D",
+      "to": "E",
+      "weight": 3.0
+    },
+    {
+      "from": "E",
+      "to": "F",
+      "weight": 1.0
+    }
+  ]
+}
